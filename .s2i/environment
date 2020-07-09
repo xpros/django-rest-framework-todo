@@ -1,1 +1,2 @@
+APP_MODULE=todo_app.wsgi
 APP_CONFIG=config.py
